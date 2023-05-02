@@ -1,0 +1,42 @@
+body {
+  background-image: url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header-box {
+  display: flex;
+  justify-content: center;
+
+  background-color: aqua;
+  padding: 50px;
+}
+
+.story {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+
+  padding-top: 300px;
+}
+
+.story-bttn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.story-bttn button {
+  display: flex;
+  justify-content: center;
+
+  width: 400px;
+  font-size: 25px;
+  padding: 10px;
+
+  background-color: orangered;
+  color: white;
+}

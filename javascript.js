@@ -1,4 +1,4 @@
-function greatEscape() {
+function showgreatEscape() {
   const Username = prompt("Enter a name: ");
   const adverb1 = prompt("Enter an adverb: ");
   const adjective1 = prompt("Enter an adjective: ");
@@ -24,7 +24,7 @@ function greatEscape() {
   );
 }
 
-function mDisappearance() {
+function showmDisappearance() {
   const Username2 = prompt("Enter a name: ");
   const adjective11 = prompt("Enter an adjective: ");
   const adjective12 = prompt("Enter an adjective: ");
@@ -48,7 +48,7 @@ function mDisappearance() {
   );
 }
 
-function interBattle() {
+function showinterBattle() {
   const occupation2 = prompt("Enter an occupation: ");
   const Username3 = prompt("Enter a name: ");
   const adjective11 = prompt("Enter an adjective: ");
